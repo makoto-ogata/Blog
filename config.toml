@@ -1,3 +1,4 @@
+theme = "casper"
 BaseUrl= "https://makoto-ogata.github.io/Blog"
 LanguageCode= "ja-JP"
 Title= "Do the homework"
@@ -5,6 +6,7 @@ paginate = 5
 DisqusShortname = "do-the-homework"
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
+publishDir = "docs"
 
 [params]
   description = "Welcome to my website"
@@ -12,7 +14,7 @@ canonifyurls = true
   cover = "images/cover.jpg"
   author = "Makoto Ogata"
   authorlocation = "Tokyo, Japan"
-  authorwebsite = "https://makoto-ogata.github.io/Blog"
+  # authorwebsite = "https://makoto-ogata.github.io/Blog"
   authorbio= "my bio"
   logo = "images/icon.png"
   # googleAnalyticsUserID = "UA-79101-12"
