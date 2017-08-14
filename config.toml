@@ -1,0 +1,34 @@
+BaseUrl= "https://makoto-ogata.github.io/Blog"
+LanguageCode= "ja-JP"
+Title= "Do the homework"
+paginate = 5
+DisqusShortname = "do-the-homework"
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+[params]
+  description = "Welcome to my website"
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/cover.jpg"
+  author = "Makoto Ogata"
+  authorlocation = "Tokyo, Japan"
+  authorwebsite = "https://makoto-ogata.github.io/Blog"
+  authorbio= "my bio"
+  logo = "images/icon.png"
+  # googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "makoto-ogata"
+  twitterName = "ogata0510"
+  facebookName = "ogatamakoto0521"
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "ogata0510"
