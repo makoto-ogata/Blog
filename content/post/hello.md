@@ -1,7 +1,7 @@
 ---
 title: "Hello"
 date: 2017-08-15T02:14:48+09:00
-image: "/images/2017/Jan/newyear.jpg"
+image: "images/2017/Jan/newyear.jpg"
 draft: false
 ---
 
