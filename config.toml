@@ -1,5 +1,5 @@
 theme = "casper"
-BaseUrl= "https://makoto-ogata.github.io/Blog"
+BaseUrl= "http://do-the-homework"
 LanguageCode= "ja-JP"
 Title= "Do the homework"
 paginate = 5
