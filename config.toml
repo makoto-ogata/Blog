@@ -8,20 +8,15 @@ Copyright = "All rights reserved - 2017"
 canonifyurls = true
 publishDir = "docs"
 
-[author]
-    name = "Makoto Ogata"
-    bio = "The most uninteresting man in the world."
-    location = "Tokyo, Japan"
-    website = "https://makoto-ogata.github.io/Blog"
-    # thumbnail = "/avatars/makoto.jpg"
-
 [params]
   description = "Welcome to my website"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/cover.jpg"
+  author = "Makoto Ogata"
+  authorlocation = "Tokyo, Japan"
   # authorwebsite = "https://makoto-ogata.github.io/Blog"
   authorbio= "my bio"
-  logo = "/logo/icon.png"
+  logo = "images/icon.png"
   # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
