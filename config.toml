@@ -1,6 +1,6 @@
 theme = "casper"
 BaseUrl= "http://do-the-homework/"
-LanguageCode= "ja-JP"
+LanguageCode= "ja"
 Title= "Do the homework"
 paginate = 5
 DisqusShortname = "do-the-homework"
