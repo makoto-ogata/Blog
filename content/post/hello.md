@@ -8,3 +8,4 @@ draft: false
 test test  
 今日も元気です
 画像が出ないぞ
+detakana
