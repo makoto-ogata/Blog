@@ -1,20 +1,17 @@
----
++++
 author = ""
-comments = true	# set false to hide Disqus
-date = "2017-01-05T03:43:22+09:00"
+comments = true
+image = "images/2017/Jan/newyear.jpg"
+date = "2017-01-05T01:58:33+09:00"
 draft = false
-image = ""
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "post-title"
 tags = ["NewYear"]
 title = "2017年が明けました。"
-image: "images/2017/Jan/newyear.jpg"
-draft: false
----
++++
 
-新年明けましておめでとうございます。  
-前回の記事から一年以上放置するという体たらく。  
+新年明けましておめでとうございます。   
 今年はこまめに大した事ない様なことでも記事にして続けていこうと思います。
 
 
@@ -31,4 +28,4 @@ draft: false
 去年で世間一般では初老といわれる40代に突入したこともあり、いよいよ基礎代謝がガクンと落ちてきたのでお腹がみっともない感じになってきました。あと、座り仕事なので少しでも身体を動かした方が良いので水泳とか定期的に行きたい。  
 
 本当は「[GitHubでWrite Code Every Dayを目指した話](http://keita-moromizato.hatenablog.com/entry/2016/12/26/120526)」みたいな事を思ってたけど、年明けのブログを今書いてる時点で確実に無理なので早々に諦めました。  
-3つくらい今年の目標を書きましたが、やっぱり1番の目標は「死なない」かなー（今年本厄なのでTOP画像の川崎大師で厄除けしてもらいました）  
+3つくらい今年の目標を書きましたが、やっぱり1番の目標は「死なない」かなー（今年本厄なのでTOP画像の川崎大師で厄除けしてもらいました）
