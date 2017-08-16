@@ -10,7 +10,7 @@ publishDir = "docs"
 
 [params]
   description = "Welcome to my website"
-  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  metadescription = "日々の勉強や気づいた事、感じた事を綴るブログ"
   cover = "images/cover.jpg"
   author = "Makoto Ogata"
   authorlocation = "Tokyo, Japan"
