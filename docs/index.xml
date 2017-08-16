@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Do the homework</title>
-    <link>http://do-the-homework/</link>
+    <link>http://do-the-homework.com/</link>
     <description>Recent content on Do the homework</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 02:14:48 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 03:43:22 +0900</lastBuildDate>
     
-	<atom:link href="http://do-the-homework/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://do-the-homework.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>test</title>
+      <link>http://do-the-homework.com/post/post-title/</link>
+      <pubDate>Wed, 16 Aug 2017 03:43:22 +0900</pubDate>
+      
+      <guid>http://do-the-homework.com/post/post-title/</guid>
+      <description>testを書きました</description>
+    </item>
+    
+    <item>
       <title>Hello</title>
-      <link>http://do-the-homework/post/hello/</link>
+      <link>http://do-the-homework.com/post/hello/</link>
       <pubDate>Tue, 15 Aug 2017 02:14:48 +0900</pubDate>
       
-      <guid>http://do-the-homework/post/hello/</guid>
+      <guid>http://do-the-homework.com/post/hello/</guid>
       <description>test test
 今日も元気です 画像が出ないぞ detakana</description>
     </item>

@@ -3,29 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://do-the-homework/post/hello/</loc>
+    <loc>http://do-the-homework.com/post/post-title/</loc>
+    <lastmod>2017-08-16T03:43:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://do-the-homework.com/post/hello/</loc>
     <lastmod>2017-08-15T02:14:48+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://do-the-homework/categories/</loc>
+    <loc>http://do-the-homework.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://do-the-homework/</loc>
-    <lastmod>2017-08-15T02:14:48+09:00</lastmod>
+    <loc>http://do-the-homework.com/</loc>
+    <lastmod>2017-08-16T03:43:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://do-the-homework/post/</loc>
-    <lastmod>2017-08-15T02:14:48+09:00</lastmod>
+    <loc>http://do-the-homework.com/post/</loc>
+    <lastmod>2017-08-16T03:43:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://do-the-homework/tags/</loc>
+    <loc>http://do-the-homework.com/tags/tag1/</loc>
+    <lastmod>2017-08-16T03:43:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://do-the-homework.com/tags/tag2/</loc>
+    <lastmod>2017-08-16T03:43:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://do-the-homework.com/tags/</loc>
+    <lastmod>2017-08-16T03:43:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
