@@ -1,5 +1,5 @@
 theme = "casper"
-BaseUrl= "http://do-the-homework/"
+BaseUrl= "http://do-the-homework.com/"
 LanguageCode= "ja"
 Title= "Do the homework"
 paginate = 5
