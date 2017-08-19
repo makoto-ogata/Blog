@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Do the homework</title>
-    <link>http://do-the-homework.com/post/</link>
-    <description>Recent content in Posts on Do the homework</description>
+    <title>America on Do the homework</title>
+    <link>http://do-the-homework.com/tags/america/</link>
+    <description>Recent content in America on Do the homework</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>All rights reserved - 2017</copyright>
     <lastBuildDate>Thu, 03 Aug 2017 14:38:00 +0900</lastBuildDate>
     
-	<atom:link href="http://do-the-homework.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://do-the-homework.com/tags/america/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -33,18 +33,6 @@
 そんなこんなでサンフランシスコには17時前に到着。
 初めてのアメリカにテンション上がりつつ、初めてのアメリカにテンション上がりつつ、これからホテルにチェックインするんですが、ここでもちょっとした問題が…。
 つづく</description>
-    </item>
-    
-    <item>
-      <title>2017年が明けました。</title>
-      <link>http://do-the-homework.com/post/2017/01/05/post-title/</link>
-      <pubDate>Thu, 05 Jan 2017 01:58:33 +0900</pubDate>
-      
-      <guid>http://do-the-homework.com/post/2017/01/05/post-title/</guid>
-      <description>&lt;p&gt;新年明けましておめでとうございます。&lt;br /&gt;
-今年はこまめに大した事ない様なことでも記事にして続けていこうと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
