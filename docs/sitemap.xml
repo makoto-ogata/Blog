@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://do-the-homework.com/post/2017/08/13/post-title/</loc>
+    <lastmod>2017-08-13T18:28:26+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://do-the-homework.com/post/2017/08/03/post-title/</loc>
     <lastmod>2017-08-03T14:38:00+09:00</lastmod>
   </url>
@@ -19,7 +24,7 @@
   
   <url>
     <loc>http://do-the-homework.com/tags/america/</loc>
-    <lastmod>2017-08-03T14:38:00+09:00</lastmod>
+    <lastmod>2017-08-13T18:28:26+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +35,7 @@
   
   <url>
     <loc>http://do-the-homework.com/</loc>
-    <lastmod>2017-08-03T14:38:00+09:00</lastmod>
+    <lastmod>2017-08-13T18:28:26+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,19 +47,19 @@
   
   <url>
     <loc>http://do-the-homework.com/post/</loc>
-    <lastmod>2017-08-03T14:38:00+09:00</lastmod>
+    <lastmod>2017-08-13T18:28:26+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://do-the-homework.com/tags/</loc>
-    <lastmod>2017-08-03T14:38:00+09:00</lastmod>
+    <lastmod>2017-08-13T18:28:26+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://do-the-homework.com/tags/travel/</loc>
-    <lastmod>2017-08-03T14:38:00+09:00</lastmod>
+    <lastmod>2017-08-13T18:28:26+09:00</lastmod>
     <priority>0</priority>
   </url>
   

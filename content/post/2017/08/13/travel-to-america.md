@@ -2,7 +2,7 @@
 author = ""
 comments = true	# set false to hide Disqus
 date = "2017-08-13T18:28:26+09:00"
-draft = true
+draft = false
 image = "images/2017/Aug/13/america3.jpg"
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
