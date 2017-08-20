@@ -29,19 +29,22 @@ title = "初めてのアメリカ旅行その２"
 
 カルガリー空港からサンフランシスコまでがユナイテッド空港だったのですが、友人から「アメリカに居た時ユナイテッド空港は定刻通り飛んだ事ないですよ」と聞いてたけど、たまたま偶然が重なったんでしょ？とか思ってたら、僕の時も遅れました。
 
-![departure time](http://do-the-homework.com/images/2017/Aug/03/departures.jpg)
+<img src="http://do-the-homework.com/images/2017/Aug/03/departures.jpg" alt="departure time" width="710">
+
 
 後で調べても[あまり良い評判はない](http://e.his-j.com/static/kuchikomi/kuchikomi.asp?car=UA)みたいです。
 しょうがないので、カルガリー空港をブラブラ。  
 クレジットカード文化とは聞いてたけど、普通の自販機もクレジットカード対応してるのは流石だなーと思いました。  
 
-![VendingMachine](http://do-the-homework.com/images/2017/Aug/03/VendingMachine.jpg)
+<img src="http://do-the-homework.com/images/2017/Aug/03/VendingMachine.jpg" alt="VendingMachine" width="710">
+
 
 ※[スキミングされる可能性](http://www.huffingtonpost.jp/shoichi-kasuo/skimming_b_8439266.html)も考えられるので使いませんでしたが。
 
 そんなこんなでサンフランシスコには17時前に到着。  
 
-![SanFrancisco airport](http://do-the-homework.com/images/2017/Aug/03/SanFrancisco.jpg)
+<img src="http://do-the-homework.com/images/2017/Aug/03/SanFrancisco.jpg" alt="SanFrancisco airport" width="710">
+
 
 初めてのアメリカにテンション上がりつつ、初めてのアメリカにテンション上がりつつ、これからホテルにチェックインするんですが、ここでもちょっとした問題が…。
 

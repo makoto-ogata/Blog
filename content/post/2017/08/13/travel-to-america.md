@@ -14,7 +14,7 @@ title = "初めてのアメリカ旅行その３"
 サンフランシスコ国際空港からダウンタウンまではBARTという電車にのって行きます。
 
 <!--more-->
-![bart map](http://do-the-homework.com/images/2017/Aug/13/bartmap.jpg)
+<img src="http://do-the-homework.com/images/2017/Aug/13/bartmap.jpg" alt="bart map" width="710">
 
 
 電車で30分ほどでダウンタウンに到着。  
@@ -22,11 +22,12 @@ title = "初めてのアメリカ旅行その３"
 Powell周辺はとても栄えてるのですが、サンフランシスコの中でも危険な地域に隣接してます。（予算の関係上、そういう場所しか宿が取れなかった） 
 参考までに[在サンフランシスコ日本領事館でも危険な場所を紹介](http://www.sf.us.emb-japan.go.jp/pdf/anzen_no_tebiki.pdf)しています。
 
-![sanfrancisco map](http://do-the-homework.com/images/2017/Aug/13/sanfrancisco_map.jpg)
+<img src="http://do-the-homework.com/images/2017/Aug/13/sanfrancisco_map.jpg" alt="sanfrancisco map" width="710">
+
 
 SpotCrimeで検索してもホテル周辺は盗難だらけです。
 
-![spot crime](http://do-the-homework.com/images/2017/Aug/13/crime.png)
+<img src="http://do-the-homework.com/images/2017/Aug/13/crime.png" alt="spot crime" width="710">
 
 [参考URL](https://spotcrime.com/ca/san+francisco)
 
@@ -37,14 +38,14 @@ SpotCrimeで検索してもホテル周辺は盗難だらけです。
 無事にチェックインを済ませ、長時間のフライトでクタクタだったので、もう遅いし夜は怖くて出歩く気にならないので、もう寝ようと思ってふと窓の方を見たらどうやら窓が空いてる。  
 窓は二重窓になってて、外側の窓は固くて一定以上は閉まらない。内側の窓も閉めようにもどうやら閉まらない。  
 
-![hotel photo](http://do-the-homework.com/images/2017/Aug/13/hotel_photo1.jpg)
+<img src="http://do-the-homework.com/images/2017/Aug/13/hotel_photo1.jpg" alt="hotel photo" width="710">
 
 
 しかも窓の外はベランダみたいになってて他の部屋と繋がってます。  
 要は他の部屋から容易に侵入出来るわけです。  
 窓が閉まらないならせめてカーテン閉めようと思ったのですが、カーテンの生地が足らない。  
 
-![hotel photo](http://do-the-homework.com/images/2017/Aug/13/hotel_photo2.jpg)
+<img src="http://do-the-homework.com/images/2017/Aug/13/hotel_photo2.jpg" alt="hotel photo" width="710">
  
 
 ***コントかよ！***  
