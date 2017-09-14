@@ -6,7 +6,7 @@ draft = false
 image = "images/2017/Aug/22/america4.jpg"
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
-slug = "post-title"
+slug = "first-time-america-4"
 tags = ["travel","America"]
 title = "初めてのアメリカ旅行その４"
 +++

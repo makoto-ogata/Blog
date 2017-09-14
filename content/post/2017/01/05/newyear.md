@@ -6,7 +6,7 @@ date = "2017-01-05T01:58:33+09:00"
 draft = false
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
-slug = "post-title"
+slug = "new-year-2017"
 tags = ["NewYear"]
 title = "2017年が明けました。"
 +++
