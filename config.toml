@@ -17,7 +17,7 @@ publishDir = "docs"
   # authorwebsite = "https://makoto-ogata.github.io/Blog"
   authorbio= "my bio"
   logo = "images/icon.png"
-  # googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = "UA-36130388-2"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
   githubName = "makoto-ogata"
