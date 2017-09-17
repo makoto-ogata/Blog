@@ -33,7 +33,7 @@ SpotCrimeで検索してもホテル周辺は盗難だらけです。
 
 そして僕の宿泊先のホテルが[The PickWick Hotel](http://www.thepickwickhotel.com/)というホテル。  
 窃盗犯が周りにウヨウヨいるかと思うとヒリヒリします。  
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2918.408468605812!2d-122.40938666711553!3d37.78372385472782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8fb6775e6d2a5919!2sThe+Pickwick+Hotel!5e0!3m2!1sja!2sjp!4v1502619422741" width="710" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2918.408468605812!2d-122.40938666711553!3d37.78372385472782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8fb6775e6d2a5919!2sThe+Pickwick+Hotel!5e0!3m2!1sja!2sjp!4v1502619422741" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 無事にチェックインを済ませ、長時間のフライトでクタクタだったので、もう遅いし夜は怖くて出歩く気にならないので、もう寝ようと思ってふと窓の方を見たらどうやら窓が空いてる。  
 窓は二重窓になってて、外側の窓は固くて一定以上は閉まらない。内側の窓も閉めようにもどうやら閉まらない。  
