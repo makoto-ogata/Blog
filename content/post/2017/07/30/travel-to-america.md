@@ -44,6 +44,5 @@ title = "初めてのアメリカ旅行その１"
 僕「16:15です！！！！」（キレた）  
 そんなやり取りをしつつ15:20には手続きが終わり、カナダの観光局から支払い完了のメールが届いて何とか15:30までに搭乗手続きを完了する事ができました。  
 ちなみに代行サービスで3,500円取られました（高い！）
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">カナダ経由でアメリカ行くんだけど、カナダ版ESTA、eTAの申請してなくて、飛行機乗れないとこだった</p>&mdash; オガタ マコト (@ogata0510) <a href="https://twitter.com/ogata0510/status/881040988143210496">2017年7月1日</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
 つづく
